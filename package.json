@@ -1,7 +1,9 @@
 {
   "name": "Homework4TypeScript",
   "version": "1.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "pg": "^8.8.0"
+  },
   "devDependencies": {
     "@types/mocha": "^10.0.0",
     "@types/node": "^18.11.9",
